@@ -1,0 +1,31 @@
+# network & loss
+setting: mcd
+loss: triplet
+margin: 0.1
+embedding_dim: 2048
+variance_dim: 2048
+dropout_rate: 0.1
+val_forward_num: 20
+
+# optimizer
+optim: adam
+lr: 1e-5
+weight_decay: 0.001
+
+# LR scheduler
+lr_gamma: 0.99
+lr_step: 5
+momentum: 0.9
+
+# training
+seed: 1234
+n_epoch: 60
+patience: 5
+devices: schedule
+
+# metric
+eval_k_list: [1, 5, 10]
+
+# logger
+logger_wandb: true
+logger_csv: true

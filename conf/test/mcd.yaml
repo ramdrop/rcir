@@ -1,0 +1,8 @@
+ckpt: 
+  cub200: logs_beta/mcd_cub200_0606_110733/RCIR/gsfvmpjo/checkpoints/best.ckpt
+  car196: logs_beta/mcd_car196_0606_114116/RCIR/lojp1ua6/checkpoints/best.ckpt
+  chestx: logs_beta/mcd_chestx_0606_114128/RCIR/lc9kostj/checkpoints/best.ckpt
+  pitts: logs_beta/mcd_pitts_0606_114016/RCIR/rbnz1m0h/checkpoints/best.ckpt
+  sop: logs_beta/mcd_sop_0722_182011/RCIR/jlhpcnuh/checkpoints/best.ckpt
+eval_split: test
+

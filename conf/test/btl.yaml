@@ -1,0 +1,10 @@
+# ckpt: logs_beta/btl_cub200_0603_224232/RCIR/qtogdm02/checkpoints/epoch=7-step=5864.ckpt
+ckpt: 
+  cub200: logs_beta/btl_cub200_0606_113015/RCIR/nm9f2qj4/checkpoints/best.ckpt
+  car196: logs_beta/btl_car196_0605_203249/RCIR/iewqv98b/checkpoints/best.ckpt
+  chestx: logs_beta/btl_chestx_0606_113027/RCIR/yn4rghk6/checkpoints/best.ckpt
+  pitts: logs_beta/btl_pitts_0605_232207/RCIR/mm3kg587/checkpoints/best.ckpt
+  sop: logs_beta/btl_sop_0724_094241/RCIR/aeebkdvh/checkpoints/best.ckpt
+
+eval_split: test
+ 

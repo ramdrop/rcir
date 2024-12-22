@@ -1,0 +1,53 @@
+{   "logs_dir": "logs_beta",
+    "cub200": {
+            "btl": "btl_cub200_0515_072333",
+            "mcd": "mcd_cub200_0515_161943",
+            "triplet": "triplet_cub200_0515_072126",
+            "ensemble": ["triplet_cub200_0515_072126", 
+            "triplet_cub200_0515_102114", 
+            "triplet_cub200_0515_102135",
+            "triplet_cub200_0515_152901",
+            "triplet_cub200_0515_153640"]
+    },
+    "car196": {
+            "btl": "btl_car196_0605_203249",
+            "mcd": "mcd_car196_0606_114116",
+            "triplet": "triplet_car196_0606_221608",
+            "ensemble": ["triplet_car196_0606_221608", 
+            "triplet_car196_0608_223541", 
+            "triplet_car196_0608_223548",
+            "triplet_car196_0608_223757",
+            "triplet_car196_0608_223821"]
+    },
+    "pitts": {
+            "btl": "btl_pitts_0605_232207",
+            "mcd": "mcd_pitts_0606_114016",
+            "triplet": "triplet_pitts_0606_221953",            
+            "ensemble": ["triplet_pitts_0606_221953", 
+            "triplet_pitts_0609_100432", 
+            "triplet_pitts_0609_100437",
+            "triplet_pitts_0609_100521",
+            "triplet_pitts_0609_100606"]
+    },        
+    "chestx": {
+            "btl": "btl_chestx_0606_113027",
+            "mcd": "mcd_chestx_0606_114128",
+            "triplet": "triplet_chestx_0606_221639",            
+            "ensemble": ["triplet_chestx_0606_221639", 
+            "triplet_chestx_0609_175730", 
+            "triplet_chestx_0609_175730c",
+            "triplet_chestx_0609_175754",
+            "triplet_chestx_0609_175756"]
+    },
+    "sop": {
+            "btl": "btl_sop_0724_094241",
+            "mcd": "mcd_sop_0722_182011",
+            "triplet": "triplet_sop_0718_164748",
+                "ensemble": ["triplet_sop_0718_164748",
+                "triplet_sop_0726_165213",
+                "triplet_sop_0728_000315",
+                "triplet_sop_0728_220411",
+                "triplet_sop_0729_094316"
+                ]
+    }    
+}

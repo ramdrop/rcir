@@ -1,0 +1,8 @@
+dataset: pitts
+data_path: dbs/pitts
+height: 224
+width: 224
+threads: 8
+batch_size: 8
+cache_batch_size: 25
+refresh_cache_every_n_epoch: 1

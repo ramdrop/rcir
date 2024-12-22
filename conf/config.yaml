@@ -1,0 +1,19 @@
+defaults:
+  - train: btl 
+  - dataset: cub200
+  - test:
+  - _self_
+#   - override hydra/hydra_logging: disabled  
+#   - override hydra/job_logging: disabled   
+
+# hydra:  
+#   output_subdir: null  
+#   run:  
+#     dir: .
+
+hydra:
+  run:
+    dir: ./logs_beta/${train.setting}_${dataset.dataset}_${now:%m%d}_${now:%H%M%S}
+
+
+

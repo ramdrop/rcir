@@ -1,9 +1,11 @@
 ### Risk Controlled Image Retrieval
 Kaiwen Cai, Chris Xiaoxuan Lu, Xingyu Zhao, Wei Huang, Xiaowei Huang
 
+![pic](./openfig.png)
+
 ### News 🔥
 
-- 2024-12-22: Our main manuscript is available on  arXiv, and the supplementary material on [GitHub](./supplementary.pdf).
+- 2024-12-22: Our main manuscript is available on  [arXiv](https://arxiv.org/abs/2307.07336), and the supplementary material on [GitHub](./supplementary.pdf).
 
 - 2024-12-22: The code for trainig and testing RCIR is released.
 
